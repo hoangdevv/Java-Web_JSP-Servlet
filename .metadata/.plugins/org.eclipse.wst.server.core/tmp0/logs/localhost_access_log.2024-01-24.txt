@@ -1,0 +1,17 @@
+127.0.0.1 - - [24/Jan/2024:10:46:15 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:46:15 +0700] "GET /new-jdbc/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:46:25 +0700] "GET /new-jdbc/trang-chu HTTP/1.1" 200 10869
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:46:25 +0700] "GET /new-jdbc/,c:url%20value='/template/web/bootstrap/js/scripts.js'/%3E HTTP/1.1" 404 1097
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:46:26 +0700] "GET /favicon.ico HTTP/1.1" 404 1005
+127.0.0.1 - - [24/Jan/2024:10:48:43 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:48:43 +0700] "GET /new-jdbc/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:48:48 +0700] "GET /new-jdbc/trang-chu HTTP/1.1" 200 10869
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:48:48 +0700] "GET /new-jdbc/,c:url%20value='/template/web/bootstrap/js/scripts.js'/%3E HTTP/1.1" 404 1097
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:50:11 +0700] "GET /new-jdbc/admin-home HTTP/1.1" 500 1662
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:50:18 +0700] "GET /new-jdbc/admin-home HTTP/1.1" 500 1662
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:51:00 +0700] "GET /new-jdbc/admin-home HTTP/1.1" 500 1662
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:56:37 +0700] "GET /new-jdbc/trang-chu HTTP/1.1" 200 10869
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:56:37 +0700] "GET /new-jdbc/,c:url%20value='/template/web/bootstrap/js/scripts.js'/%3E HTTP/1.1" 404 1097
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:56:39 +0700] "GET /new-jdbc/admin-home HTTP/1.1" 500 1662
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:56:42 +0700] "GET /new-jdbc/admin HTTP/1.1" 404 1012
+0:0:0:0:0:0:0:1 - - [24/Jan/2024:10:56:50 +0700] "GET /new-jdbc/admin-home HTTP/1.1" 500 1662

@@ -1,0 +1,13 @@
+127.0.0.1 - - [23/Jan/2024:10:00:23 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:10:00:23 +0700] "GET /new-jdbc/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:10:01:26 +0700] "GET /new-jdbc/trang-chu HTTP/1.1" 200 10869
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:10:01:26 +0700] "GET /new-jdbc/template/web/bootstrap/css/styles.css HTTP/1.1" 200 236792
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:10:01:26 +0700] "GET /new-jdbc/,c:url%20value='/template/web/bootstrap/js/scripts.js'/%3E HTTP/1.1" 404 1097
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:10:01:26 +0700] "GET /favicon.ico HTTP/1.1" 404 1005
+127.0.0.1 - - [23/Jan/2024:11:56:51 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:11:56:52 +0700] "GET /new-jdbc/ HTTP/1.1" 302 -
+127.0.0.1 - - [23/Jan/2024:12:01:33 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:12:01:33 +0700] "GET /new-jdbc/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:12:05:42 +0700] "GET /new-jdbc/trang-chu HTTP/1.1" 200 10869
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:12:05:42 +0700] "GET /new-jdbc/,c:url%20value='/template/web/bootstrap/js/scripts.js'/%3E HTTP/1.1" 404 1097
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:12:05:42 +0700] "GET /favicon.ico HTTP/1.1" 404 1005
